@@ -19,7 +19,7 @@
 <p align="left">
 
 <a href="https://linkedin.com/in/aakash-sharma-2216b8205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nasir ali" height="30" width="40" /></a>
-<a href="https://instagram.com/the.sharma._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nasir_ali.exe" height="30" width="40" /></a>
+<a href="https://instagram.com/the.sharmaji._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nasir_ali.exe" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/AakashSharma7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nasir ali" height="30" width="40" /></a>
 
 <h3 align="left"> My Languages and Tools:</h3>
