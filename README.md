@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 ![MasterHead](https://github.com/aakashsharma7/aakashsharma7/blob/README.MD/Welcome%20to%20my%20GitHub.gif)
 <h1 align="center">Hi 👋, I'm Aakash Sharma</h1>
