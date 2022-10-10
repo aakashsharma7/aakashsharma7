@@ -1,5 +1,3 @@
-
-
 ![MasterHead](https://github.com/aakashsharma7/aakashsharma7/blob/README.MD/Welcome%20to%20my%20GitHub.gif)
 <h1 align="center">Hi 👋, I'm Aakash Sharma</h1>
 <h3 align="center">I am pursuing BTech in CSE student learning Java with Data Structure and Algorithm.</h3>
