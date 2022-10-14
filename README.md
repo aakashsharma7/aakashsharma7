@@ -29,10 +29,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aakashsharma7&" alt="aakashsharma7" /></p>
 
-## Support
-For support, email - aakashsharma.ghd@gmail.com
-
-<h1 align="center"><img width="100" src="https://media1.giphy.com/media/3o7WIx7urV838kHFzW/giphy.gif"></p>
-
-![Made with love in India](https://madewithlove.now.sh/in?heart=true&template=for-the-badge)
-</h1>
