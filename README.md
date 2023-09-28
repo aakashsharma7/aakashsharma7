@@ -8,7 +8,7 @@
 
 #### I'm a Pursuing Btech in CSE, Greater Noida.
 
-- 🏢 I'm currently working at **Yellow.ai**
+- 🏢 I'm currently working on Frontend Developer.
 - ⚙️ I use daily: `.js`, `.jsx`, `.java`, `.html`, `.css`,
 - 🌱 **Open Source** Fanatic
 - &nbsp;ℹ︎ Dedicated employee by morning 🙇🏻‍, avid learner by night 🖥
