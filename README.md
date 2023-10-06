@@ -27,5 +27,10 @@
   <a href="https://t.me/SKY:)" target="blank"><img align="center" src="https://raw.githubusercontent.com/devcula/devcula/master/socials/telegram.svg" alt="Telegram" height="40" width="40" /></a>
   <br/><br/>
 
+![](https://github-readme-stats.vercel.app/api?username=nwaliaez&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nwaliaez&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nwaliaez&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
   <img align="center" alt="Aakash Sharma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=devcula&show_icons=true&hide_border=true&theme=chartreuse-dark&count_private=true" />
 </div>
