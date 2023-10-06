@@ -30,7 +30,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=aakashsharma7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aakashsharma7&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aakashsharma7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-  <img align="center" alt="Aakash Sharma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=devcula&show_icons=true&hide_border=true&theme=chartreuse-dark&count_private=true" />
-</div>
+/*Username*/
