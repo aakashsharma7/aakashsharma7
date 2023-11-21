@@ -1,6 +1,3 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/aakashsharma7/aakashsharma7/master/name.svg" alt="Aakash Sharma" />
-</h1>
 <div align="center">
   <p>
     
