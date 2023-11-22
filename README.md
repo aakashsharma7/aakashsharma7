@@ -46,7 +46,7 @@
 <!--  -->
 <p align="center" >
 <a href="https://github-readme-stats.vercel.app/api?username=aakashsharma7"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=aakashsharma7&&show_icons=true&theme=radical"/>
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=aakashsharma7&theme=dark&hide_border=false"/>
   </a>
 
 </p>
