@@ -45,7 +45,7 @@
    </p>
 <!--  -->
 <p align="center" >
-<a href="https://github.com/aakashsharma7/github-readme-stats"> 
+<a href="https://github-readme-stats.vercel.app/api?username=aakashsharma7"> 
     <img  src="https://github-readme-stats.vercel.app/api?username=aakashsharma7&&show_icons=true&theme=radical"/>
   </a>
 
