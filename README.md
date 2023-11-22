@@ -94,7 +94,3 @@
 <p align="center">Made with ❤️ in India</p>
 
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
-
-<p align="center">
-        <img src="https://raw.githubusercontent.com/aakashsharma7/aakashsharma7/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
