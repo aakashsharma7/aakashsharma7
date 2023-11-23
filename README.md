@@ -6,20 +6,17 @@
 </div>
 
 <p align='center'>
-  <a href="https://www.linkedin.com/in/aakash-sharma-2216b8205/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
- <a href="manicpsycho1@outlook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/devcula/devcula/master/socials/email.svg" alt="Email" height="40" width="40" /></a>&nbsp; &nbsp; &nbsp; &nbsp;
-   <a href="https://twitter.com/AakashSharma07"><img height="30" src="https://raw.githubusercontent.com/AakashSharma07/AakashSharma07/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://t.me/SKY:)" target="blank"><img align="center" src="https://raw.githubusercontent.com/devcula/devcula/master/socials/telegram.svg" alt="Telegram" height="40" width="40" /></a>
- <a href="https://www.coffee.com/hemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/aakash-sharma-2216b8205/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="manicpsycho1@outlook.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/devcula/devcula/master/socials/email.svg" alt="Email" height="40" width="40" /></a>&nbsp; &nbsp; &nbsp; &nbsp;
+<a href="https://t.me/SKY:)" target="blank"><img align="center" src="https://raw.githubusercontent.com/devcula/devcula/master/socials/telegram.svg" alt="Telegram" height="40" width="40" /></a>
+<a href="https://www.coffee.com/hemant"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/coffee.jpg?raw=true"></a>&nbsp;&nbsp;
  </p>
-
-
 
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Aakash Sharma | 💻 Full Stack Developer | 🛸 India , UK <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
  <h5 align="center">
-   <i>⚡️I don’t trust people who don’t write code with SemiColon.⚡️</i>
+   <i>⚡️I love solving real world problems 🔭 Among other things:)⚡️</i>
   </h5>
  
  
