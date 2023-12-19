@@ -1,3 +1,4 @@
+![MasterHead](https://github.com/aakashsharma7/aakashsharma7/blob/main/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Aakash Sharma</h1>
 <h3 align="center">Full Stack Web Development</h3>
 
