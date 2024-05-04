@@ -6,13 +6,13 @@
 
 
 
-- 🔭 I’m currently working on **Data Structure and Web Developement**
+- 🔭 I’m currently working on **MERN Stack and Data Structure**
 
-- 🌱 I’m currently learning **Full Stack Web Developement**
+- 🌱 I’m currently learning **MERN Stack Developement**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
-- 💬 Ask me about **Reactjs, Nodejs.**
+- 💬 Ask me about **Reactjs, Nodejs**
 
 - 📫 How to reach me **aakashsharma.ghd@gmail.com**
 
