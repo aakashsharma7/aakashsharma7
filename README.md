@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+![MasterHead](https://github.com/aakashsharma7/aakashsharma7/blob/main/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 <h1 align="center">Hi 👋, I'm Aakash Sharma</h1>
 <h3 align="center">Full Stack Web Development</h3>
 
