@@ -1,28 +1,45 @@
-![MasterHead](https://github.com/aakashsharma7/aakashsharma7/blob/main/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
-<h1 align="center">Hi 👋, I'm Aakash Sharma</h1>
-<h3 align="center">Full Stack Web Development</h3>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=aakashsharma7&label=Profile%20views&color=0e75b6&style=flat" alt="aakashsharma7" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aakashsharma7&label=Profile%20views&color=0e75b6&style=flat" alt="aakashsharma7" /> </p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aakash+!;" />
+</h1>
 
+<h3 align="center">Full Stack developer</h3>
 
+<br/>
 
-- 🔭 I’m currently working on **MERN Stack and Data Structure**
+<div align="center">
+ 
+ 🔭 I’m currently **building my ideas and trying to be an 100x dev**
+ 
+ 🌱 I’m currently learning **DevOps**
 
-- 🌱 I’m currently learning **MERN Stack Developement**
+💬 Ask me about **Javascript, Typescript, ReactJS, NodeJS, NextJS... or anything [here](aakashsharma.ghd@gmail.com)**
 
-- 👯 I’m looking to collaborate on **Web Development**
+⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
-- 💬 Ask me about **Reactjs, Nodejs**
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:aakashsharma.ghd@gamil.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://porto-io.vercel.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
-- 📫 How to reach me **aakashsharma.ghd@gmail.com**
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages & Tools ⚒️</h2>
+<br/>
+<div align="center">
+    
+<img src="https://skillicons.dev/icons?i=javascript,typescript,react,tailwind,nodejs,express,mongo,postgres" width={100}/><br>
+</div>
 
-- ⚡ Fun fact **Learning Never Ends.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aakashsharma07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aakashsharma07" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aakash_sharma7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aakash_sharma7" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<br/>
+<hr/>
